@@ -1,0 +1,12 @@
+__pycache__
+
+log/*.log
+
+.ipynb_checkpoints
+.idea
+.vscode
+
+venv
+
+.MACOSX
+.DS_Store
